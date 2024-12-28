@@ -16,7 +16,7 @@ This is a simple **Windows Forms** application featuring three types of calculat
 
 ---
 
-## 📸 Screenshots
+## 📸 Demonstration
 
 ### 1. Login Page
 ![Login Page](Multiple-Forms-And-Calculator/assets/login.png)
