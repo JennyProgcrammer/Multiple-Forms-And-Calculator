@@ -77,6 +77,8 @@ Contributions are welcome! If you'd like to contribute:
 
 ---
 
-## ⚖️ LICENSE
-MIT License
+## ⚖️ LICENSE  
+
+MIT License  
 Copyright © 2022 Jenny Marinay  
+  
