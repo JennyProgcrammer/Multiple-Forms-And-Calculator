@@ -22,7 +22,6 @@ This is a simple **Windows Forms** application featuring three types of calculat
 ![Login Page](Multiple-Forms-And-Calculator/assets/login.png)
 
 *The login screen where users enter their credentials.*
-*Username: Jennymarinay03; Password: 2003*
 
 ### 2. Menu Form
 ![Menu Form](Multiple-Forms-And-Calculator/assets/menu.png)
